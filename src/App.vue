@@ -1,7 +1,7 @@
 <template>
-  <router-link v-for="item in route" :key="item.path" :to="item.path">{{
+  <!-- <router-link v-for="item in route" :key="item.path" :to="item.path">{{
     item.name
-  }} | </router-link>
+  }} | </router-link> -->
 
   <router-view></router-view>
 </template>
@@ -15,6 +15,11 @@ const route = ref(routes);
 </script>
 
 <style >
+/* body{
+  background: url("./assets/pic/page1/banner.PNG");
+  background-size: cover;
+  filter: brightness(0.5);
+} */
 
 
 
