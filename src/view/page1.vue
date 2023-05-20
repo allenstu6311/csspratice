@@ -179,6 +179,7 @@
             src="https://ld-wt73.template-help.com/intense/landing-corporate/images/slide-2.jpg"
             alt=""
           />
+          
         </div>
       </div>
     </main>
